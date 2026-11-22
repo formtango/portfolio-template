@@ -18,7 +18,7 @@ A clean, fast, one-page portfolio in plain HTML and CSS, with a contact form tha
 
 ## Make the form work
 
-1. Get a form id. Sign up free at https://formtango.com (100 submissions a month), or create one with no account:
+1. Get a form id. Sign up free at https://formtango.com (1,000 submissions a month), or create one with no account:
 
    ```bash
    curl -X POST https://formtango.com/api/v1/claims \
